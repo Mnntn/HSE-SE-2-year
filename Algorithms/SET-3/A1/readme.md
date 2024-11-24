@@ -57,7 +57,7 @@ $$
 
 ### 1. График приближённой площади в зависимости от числа точек N
 
-![image](https://github.com/user-attachments/assets/671744e6-c04e-4c7a-8068-3e14a8a68cda)
+![image](https://github.com/user-attachments/assets/1b04b2a3-2b6f-4f21-a3ee-7bbfac51239c)
 
 
 На графике показано, как приближённое значение площади стабилизируется при увеличении N.
@@ -66,7 +66,7 @@ $$
 
 ### 2. График относительного отклонения в зависимости от числа точек N
 
-![image](https://github.com/user-attachments/assets/2bbb5fea-e052-40c5-ae16-ba45714afc06)
+![image](https://github.com/user-attachments/assets/ff4ebb91-6c9d-403b-b373-485795ee2657)
 
 
 На графике видно, что относительное отклонение уменьшается при росте N, что подтверждает эффективность метода Монте-Карло.
