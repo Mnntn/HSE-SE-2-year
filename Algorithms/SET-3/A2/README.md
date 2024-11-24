@@ -38,6 +38,8 @@
 | 8500 - 10000   | 1          |
 
 ---
+### График
+![image](https://github.com/user-attachments/assets/6b96f94c-a710-455e-90b0-e65ac610ffb6)
 
 ## Выводы
 
